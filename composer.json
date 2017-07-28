@@ -1,5 +1,5 @@
 {
-    "name": "hexincorp/microsoft-live",
+    "name": "hexincorp/live",
     "description": "Microsoft Live OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
